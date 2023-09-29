@@ -1,0 +1,3 @@
+[submodule "lil-fox"]
+	path = lil-fox
+	url = https://github.com/agencyenterprise/lil-fox.git
